@@ -73,11 +73,12 @@ npm run dev
 
 ## Usage
 
-bash
+```bash
 
 # Open your browser and go to http://localhost:5173 for the frontend
 
 # Open your browser and go to http://localhost:3000 for the backend API
+```
 
 ## Future Enhancements
 

@@ -59,30 +59,6 @@ cd Frontend
 npm install
 ```
 
-4. Navigate to Frontend directory
-
-```bash
-cd Frontend
-```
-
-5. Install frontend dependencies
-
-```bash
-npm install
-```
-
-4. Navigate to Frontend directory
-
-```bash
-cd Frontend
-```
-
-5. Install frontend dependencies
-
-```bash
-npm install
-```
-
 6. Start the backend server
 
 ```bash
